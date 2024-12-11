@@ -1,0 +1,12 @@
+.productsmaincontainer {
+  display: flex;
+  flex-direction: row;
+}
+.list {
+  width: 20%;
+  margin-left: 30px;
+}
+.Products {
+  padding: 40px;
+  width: 80%;
+}
